@@ -1,0 +1,25 @@
+{
+"name": "ORBIT.109",
+"short_name": "ORBIT109",
+"start_url": "/",
+"scope": "/",
+"display": "standalone",
+"background_color": "#0a1a0e",
+"theme_color": "#0a1a0e",
+"description": "ORBIT.109 UFO Burgers web app.",
+"icons": [
+{
+"src": "assets.png",
+"sizes": "192x192",
+"type": "image/png",
+"purpose": "any maskable"
+},
+{
+"src": "assets.png",
+"sizes": "512x512",
+"type": "image/png",
+"purpose": "any maskable"
+}
+]
+}
+
